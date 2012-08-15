@@ -1,6 +1,6 @@
 <?
   /**
-  * functions.php
+  * functions.php módosított
   */
   
   function setReporting() {
