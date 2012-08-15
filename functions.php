@@ -1,6 +1,6 @@
 <?
   /**
-  * functions.php
+  * functions.php második ág
   */
   
   function setReporting() {
