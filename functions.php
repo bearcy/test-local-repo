@@ -1,6 +1,6 @@
 <?
   /**
-  * functions.php második ág
+  * functions.php második ág - master ujabb modosítása
   */
   
   function setReporting() {
